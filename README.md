@@ -1,5 +1,6 @@
 # Обновление адреса или номера телефона
 Нажать сюда: https://github.com/debu-site/debu-site.github.io/edit/master/about.md
+
 Изменить нужные данные, затем нажать на зелёную кнопку "Commit changes".
 
 
@@ -7,6 +8,7 @@
 
 # Редактирование цен
 Нажать сюда: https://github.com/debu-site/debu-site.github.io/edit/master/service.md
+
 Аккуратно изменить таблицу с ценами, затем нажать на зелёную кнопку "Commit changes".
 
 
