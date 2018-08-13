@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<article id="post-page">
+	<h2>{{ page.title }}</h2>		
+	<time datetime="{{ page.date | date_to_xmlschema }}" class="by-line"> </time>
+	<div class="content">
+		{{ content }}
+	</div>
+<div style="width: 100%; float: middle;">
+    <div class="vk"  data-link="http://vk.com/album-30348104_143001888"  data-limit="50" data-width="100"></div>
+</div>
+<script
+  src="https://code.jquery.com/jquery-3.2.1.min.js"
+  integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+  crossorigin="anonymous"></script>
+<script src="js/jquery.slimbox2.js"></script>
+<script src="js/jquery.embedvkgallery.js?werewrw"></script>
+<script>
+    (function($) {
+        $(function() {
+           $('.vk').EmbedVkGallery();
+        });
+    })(jQuery);
+</script>
+	<h3>-</h3>
+</article>
