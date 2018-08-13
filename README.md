@@ -1,5 +1,6 @@
 # Обновление информации на сайте
-Для начала, стоит определить, зашли ли вы в систему. Для этого перейти по ссылке: https://github.com/login?return_to=%2Fdebu-site%2Fdebu-site.github.io
+Для начала, стоит определить, зашли ли вы в систему, для этого следует перейти по ссылке: https://github.com/login?return_to=%2Fdebu-site%2Fdebu-site.github.io
+
 
 ### Редактирование цен
 Перейти по ссылке: https://github.com/debu-site/debu-site.github.io/edit/master/service.md
