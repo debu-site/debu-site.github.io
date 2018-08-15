@@ -7,6 +7,6 @@ title: Контакты
 
 Телефон: +7 (911) 842-69-27
 
-Почта: [evgeni.krupin@yandex.ru](mailto:evgeni.krupin@yandex.ru)
+Почта: [stopinsects@dezins.work](mailto:stopinsects@dezins.work)
 
 Адрес: Санкт-Петербург, ул. Захарова, д. 16, к.1
