@@ -126,4 +126,13 @@ a {
 #lbCaption {
 	font-weight: bold;
 }
+@media (min-width: 900px) {
+#menu {
+    height: 4px;
+    width: 1.5em;
+    background-color: #7b7b7b;
+    margin-top: 8px;
+    visibility: hidden;
+}
+}
 
