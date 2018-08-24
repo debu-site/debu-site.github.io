@@ -1,7 +1,9 @@
 /* -- General Layout -- */
 
 /* Navigation */
-
+#desktop-menu {
+    visibility: hidden;
+}
 #nav, #nav-left { 
   a {
     display: block;
